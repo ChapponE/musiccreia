@@ -1,8 +1,8 @@
 import mido
 import numpy as np
 import tensorflow as tf
-
-# Charger les données MIDI
+# modificated
+# Charger les données MIDI 
 mid = mido.MidiFile("my_song.mid")
 
 # Obtenir les notes de la chanson
